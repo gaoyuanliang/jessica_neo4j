@@ -8,3 +8,6 @@ docker run -it \
 -p 4522:4522 \
 gaoyuanliang/jessica_neo4j:1.0.1 
 ```
+
+
+neo4j interface: 0.0.0.0:5987
